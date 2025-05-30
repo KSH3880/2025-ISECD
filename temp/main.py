@@ -1,6 +1,6 @@
 #####csv입력
 import pandas as pd
-filtered_edges = pd.read_csv("filtered_edges.csv")
+filtered_edges = pd.read_csv("final_augmented_edges.csv")
 
 #####api키 입력 
 api_keys = [
